@@ -1,2 +1,2 @@
 # fullstackopen
-Full stack react + node.js +api +graph ql
+Full stack + react + node.js + express + api + mongodb + graph ql
